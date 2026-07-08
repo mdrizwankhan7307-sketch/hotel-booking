@@ -1,0 +1,12 @@
+# Terraform
+**/.terraform/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Logs
+*.log
+
+# Backups
+backups/
